@@ -1,0 +1,9 @@
+This is the second program derived from 100 program suggested by ChatGPT for a 4 week python course. Since I already have programming expertise, I'll be combining the following six prompts into a single program. My main goal is to pay close attention to pythonic syntax, creating/updating git repositories, and developing good commenting habits. Upon completing this program, I'll push it to github and request feedback from my peers.
+
+The following 6 ChatGPT prompts were used to develop this program:
+6. Generate a random number between a specified range.
+7. Create a program that swaps the values of two variables.
+8. Calculate the sum of all numbers from 1 to a given number.
+9. Print the even numbers from 1 to a given limit.
+10. Determine if a given number is prime or not.
+11. Find the factorial of a given number.
