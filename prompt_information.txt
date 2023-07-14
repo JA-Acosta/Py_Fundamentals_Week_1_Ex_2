@@ -7,3 +7,6 @@ The following 6 ChatGPT prompts were used to develop this program:
 9. Print the even numbers from 1 to a given limit.
 10. Determine if a given number is prime or not.
 11. Find the factorial of a given number.
+
+Append:
+16. Check if a given number is positive, negative, or zero.
